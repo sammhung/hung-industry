@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+button{
+    background-color: #031137;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    box-shadow: 0 1px 10px #02060f;
+    height: 40px;
+    font-size: 12px;
+    width: 25%;
+}
+
+html{
+    background-color: #0A1B4A;
+}
+
+.brain{
+    width: 600px;
+}
+
+
+.header{
+    background: linear-gradient(black, #0A1B4A);
+    height: 250px;
+    text-align: center;
+}
+
+.title{
+    color: white;
+    padding: 5%;
+    font-family: "ngc292";
+}
+
+.site-des{
+    padding: 8% 0 ;
+    width: 80%;
+} 
+
+.middle-section{
+    background-color: #0A1B4A;
+    color: white;
+    padding: 0 0 0 7%;
+}
+
+.site-title{
+    padding-top: 15%;
+}
+
+
+@font-face{
+    font-family: "ngc292";
+    src: url("../assets/font/Ngc292.otf");
+}
